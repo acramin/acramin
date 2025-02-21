@@ -3,7 +3,7 @@
 
 <ul>
     <li> 💞️ I'm collaborate on <a href="https://github.com/MetaversoMaua">Metaverso Mauá</a></li>
-    <li> 🌱 I'm currently learning Java</li>
+    <li> 🌱 I'm currently learning JavaScript</li>
     <li> 💻 I'm working on a research project about IA integration in 3D printing, focusing on optimizing design and manufacturing processes.
     <li> 🌐 I'm a member of GCSP-IMT </li>
     <li> 🎮 I’m interested in games development </li>
