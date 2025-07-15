@@ -8,7 +8,8 @@
     <li> 💻 I've worked on a research project about IA integration in 3D printing, focusing on optimizing design and manufacturing processes.
     <li> 🌐 I'm a member of GCSP-IMT </li>
     <li> 🎮 I’m interested in games development </li>
-    <li> ⚡ Fun fact: I love books and music, and I'm exploring how storytelling and sound design influence game development </li>
+    <li> 🛒 I'm intern at Monee/Shopee. </li>
+    <li> ⚡ Fun fact: I love books and music </li>
 </ul>
 
 - 📫 How to reach me: acramin@gmail.com
